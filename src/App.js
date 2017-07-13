@@ -14,6 +14,7 @@ class App extends Component {
         stage :"all"
       }
   }
+    
   handleClick = ()=>{
     var value = document.getElementById('inputText').value
     document.getElementById('inputText').value = ''
