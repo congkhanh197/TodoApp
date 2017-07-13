@@ -14,7 +14,7 @@ class App extends Component {
         stage :"all"
       }
   }
-
+//asdfasdf
   
   handleClick = ()=>{
     var value = document.getElementById('inputText').value
