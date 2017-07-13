@@ -15,6 +15,9 @@ class App extends Component {
       }
   }
 //asdfasdf
+  handleClickButton = ()=>{
+    
+  }
   
   handleClick = ()=>{
     var value = document.getElementById('inputText').value
